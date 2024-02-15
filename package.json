@@ -2,7 +2,7 @@
   "name": "open-folder-files",
   "displayName": "Open folder files",
   "description": "VSCode extension to open all files in a specific folder at once",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "EduardoPetrini",
   "repository": {
     "url": "https://github.com/EduardoPetrini/open-folder-files"
