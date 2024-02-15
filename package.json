@@ -1,7 +1,7 @@
 {
   "name": "pen-folder-files",
   "displayName": "Open folder files",
-  "description": "Open all files in a specific folder at once",
+  "description": "VSCode extension to open all files in a specific folder at once",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
