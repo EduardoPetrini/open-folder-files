@@ -1,8 +1,12 @@
 {
-  "name": "pen-folder-files",
+  "name": "open-folder-files",
   "displayName": "Open folder files",
   "description": "VSCode extension to open all files in a specific folder at once",
   "version": "0.0.1",
+  "publisher": "EduardoPetrini",
+  "repository": {
+    "url": "https://github.com/EduardoPetrini/open-folder-files"
+  },
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -39,7 +43,7 @@
     "test": "node ./out/test/runTest.js"
   },
   "devDependencies": {
-    "@types/vscode": "^1.86.0",
+    "@types/vscode": "^1.83.0",
     "@types/mocha": "^10.0.3",
     "@types/node": "18.x",
     "@typescript-eslint/eslint-plugin": "^6.9.0",
